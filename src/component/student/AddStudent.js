@@ -112,7 +112,7 @@ const AddStudent = () => {
 						<button
 							type="submit"
 							className="btn btn-outline-success btn-lg">
-							Save
+							Add
 						</button>
 					</div>
 
