@@ -131,7 +131,7 @@ const EditStudent = () => {
 						<button
 							type="submit"
 							className="btn btn-outline-success btn-lg">
-							Edit Save
+							Save
 						</button>
 					</div>
 
